@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Klopp the Kotlett!!!
 
 # Your name to show in the footer
-author: Some Person
+author: ikke klops
 
 # --- List of links in the navigation bar --- #
 
@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false 
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -64,8 +64,8 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: This website is a virtual proof of marke se WWW gratis Magazin
+:
 # --- General options --- #
 
 # Select which social network share links to show in posts
